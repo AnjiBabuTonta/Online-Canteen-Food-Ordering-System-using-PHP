@@ -1,0 +1,8 @@
+.promo-banner-bg {
+    background: #686868 url('../img/banner.jpg') center;
+    background-position: top;
+    background-size: auto;
+    background-position-x: center;
+    background-clip: padding-box;
+    background-blend-mode: multiply;
+}
